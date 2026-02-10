@@ -8,4 +8,4 @@ An embedded systems project for controlling the angle of a servo-motor using STM
 - 4x4 Keypad
 
 ### A prototype for the device
-![Device](photos/servo.jpeg)
+![Device](photos/servo-motor.jpeg)
