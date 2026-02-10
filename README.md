@@ -1,5 +1,5 @@
 # Servo Motor Controller
-An embedded systems project for controlling the angle of a servo-motor using STM32F407 microcontroller, the user inputs the desired angle through a keypad with seven-segments displaying the entered angle
+An embedded systems project for controlling the angle of a servo-motor using STM32F407 microcontroller, the user inputs the desired angle through a keypad with seven-segments displaying the entered angle.
 
 ## Hardware Used
 - STM32F407 MCU
